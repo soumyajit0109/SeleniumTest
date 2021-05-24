@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22672" started-at="2021-05-24T18:44:57 IST" finished-at="2021-05-24T18:45:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22672" started-at="2021-05-24T18:44:57 IST" finished-at="2021-05-24T18:45:20 IST">
+      <class name="testCases.bewakooftestcase2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.bewakooftestcase2@24313fcc]" name="beforeMethod" is-config="true" duration-ms="4619" started-at="2021-05-24T18:45:10 IST" finished-at="2021-05-24T18:45:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DefaultTest(java.lang.String,java.lang.String)[pri:0, instance:testCases.bewakooftestcase2@24313fcc]" name="DefaultTest" duration-ms="995" started-at="2021-05-24T18:45:15 IST" data-provider="registerdata" finished-at="2021-05-24T18:45:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[soumyajitdey98@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.bewakooftestcase2@24313fcc]" name="afterMethod" is-config="true" duration-ms="4278" started-at="2021-05-24T18:45:16 IST" finished-at="2021-05-24T18:45:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.bewakooftestcase2 -->
+      <class name="testCases.bewakooftestcase">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.bewakooftestcase@3bf7ca37]" name="beforeMethod" is-config="true" duration-ms="5455" started-at="2021-05-24T18:44:57 IST" finished-at="2021-05-24T18:45:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DefaultTest()[pri:1, instance:testCases.bewakooftestcase@3bf7ca37]" name="DefaultTest" duration-ms="384" started-at="2021-05-24T18:45:03 IST" finished-at="2021-05-24T18:45:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.bewakooftestcase@3bf7ca37]" name="afterMethod" is-config="true" duration-ms="428" started-at="2021-05-24T18:45:03 IST" finished-at="2021-05-24T18:45:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.bewakooftestcase@3bf7ca37]" name="beforeMethod" is-config="true" duration-ms="5412" started-at="2021-05-24T18:45:03 IST" finished-at="2021-05-24T18:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DefaultTestpass()[pri:2, instance:testCases.bewakooftestcase@3bf7ca37]" name="DefaultTestpass" duration-ms="165" started-at="2021-05-24T18:45:09 IST" finished-at="2021-05-24T18:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefaultTestpass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.bewakooftestcase@3bf7ca37]" name="afterMethod" is-config="true" duration-ms="154" started-at="2021-05-24T18:45:09 IST" finished-at="2021-05-24T18:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.bewakooftestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
